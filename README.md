@@ -14,3 +14,7 @@
 | MacOS               | Descarga                                   |  
 | ------------------- | -------------------------------------------
 | macOS Big Sur       |  <a href="https://github.com/daviiid99/Lenovo-YOGA-510-14ISK/releases/tag/11.1">11.1</a>|
+
+## Credits
+
+<b><a href="https;//github.com/josemiii03">@josemiii03</a> for testing</b>
