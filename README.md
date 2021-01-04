@@ -15,6 +15,6 @@
 | ------------------- | -------------------------------------------
 | macOS Big Sur       |  <a href="https://github.com/daviiid99/Lenovo-YOGA-510-14ISK/releases/tag/11.1">11.1</a>|
 
-## Credits
+## Creditos
 
-<b><a href="https://github.com/josemiii03">@josemiii03</a> for testing</b>
+<b><a href="https://github.com/josemiii03">@josemiii03</a> por probar las EFIs y instalar macOS</b>
