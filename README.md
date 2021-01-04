@@ -17,4 +17,4 @@
 
 ## Credits
 
-<b><a href="https;//github.com/josemiii03">@josemiii03</a> for testing</b>
+<b><a href="https://github.com/josemiii03">@josemiii03</a> for testing</b>
