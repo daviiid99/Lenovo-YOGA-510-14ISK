@@ -13,4 +13,4 @@
 
 | MacOS               | Descarga                                   |  
 | ------------------- | -------------------------------------------
-| macOS Big Sur       |  <a href="https://github.com/daviiid99/Acer-Aspire-E5-571G/releases/tag/11.1">11.1</a>, <a href="https://github.com/daviiid99/Acer-Aspire-E5-571G/releases/tag/11.0.1">11.0.1</a>|
+| macOS Big Sur       |  <a href="https://github.com/daviiid99/Acer-Aspire-E5-571G/releases/tag/11.1">11.1</a>|
