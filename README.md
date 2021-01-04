@@ -1,4 +1,4 @@
- <img src="lenovo.png">
+ <img src="lenovo.jpg">
 
 ## Configuración
 
